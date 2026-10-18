@@ -1,0 +1,11 @@
+{
+  "org": "altair-viz",
+  "repo": "altair",
+  "versions": [
+    {
+      "commit": "e98486cac6dbf8d47092355bf1b535945379c21a",
+      "tag": "",
+      "parsed_at": "2026-10-18T14:46:06.006675+00:00"
+    }
+  ]
+}
