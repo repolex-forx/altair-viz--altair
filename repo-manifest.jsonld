@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/altair-viz/altair/commit/e98486cac6dbf8d47092355bf1b535945379c21a",
       "git:hexsha": "e98486cac6dbf8d47092355bf1b535945379c21a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T14:46:06.005849+00:00"
     },
     {
       "@id": "https://repolex.ai/r/altair-viz/altair/commit/86bb46783b7657badd4b345923289eb108250bcc",
